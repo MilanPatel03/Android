@@ -3,7 +3,7 @@ Here's all my Android works!
 
 # Android Development Files for Beginners
 
-Welcome to our repository of certain Android development files! This collection is designed as a beginner on the journey to learn Android app development. Each file contains a concise example or demonstration of a specific concept or feature, making it easy for you to understand and apply in your own projects.
+Welcome to the repository of certain Android development files! This collection is designed as a beginner on the journey to learn Android app development, As You can see, There's a folder named "On_Progress" In which, Each file contains a concise example or demonstration of a specific concept or feature, making it easy for you to understand and apply in your own projects.
 
 ## Getting Started
 
