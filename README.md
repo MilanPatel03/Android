@@ -1,5 +1,5 @@
 # Android
-Here's all my Android works!
+Here's my Android works!
 
 # Android Development Files for Beginners
 
