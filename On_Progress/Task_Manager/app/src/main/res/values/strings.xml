@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task_Manager</string>
+    <string name="dialog_add_task_title_hint">New Task</string>
+    <string name="dialog_add_task_details_hint">Add details</string>
+    <string name="save">Save</string>
+    <string name="dialog_add_task_details_button">Add Details</string>
+    <string name="star_task_button">Star Task</string>
+    <string name="home_page_title">Taskie</string>
+    <string name="todo">TODO</string>
+</resources>
